@@ -28,10 +28,6 @@ if DEBUG:
     logging.debug("Debug mode enabled")
 
 
-API_KEY = os.environ.get("API_KEY")
-logging.debug(f"API_KEY: {API_KEY}")
-
-
 def main():
     logging.info("Script started")
     print_hello()

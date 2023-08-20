@@ -5,12 +5,13 @@ Project Description
 ## How to setup?
 
 - Clone the repository
-- Run `pip install -r requirements.txt`
+- Make sure [Makefile](https://www.gnu.org/software/make/manual/make.html) is installed
+- Run `make setup`
 
 ## How to run?
 
-- Run `sh run.sh`
+- Run `make run`
 
 ## How to debug?
 
-- In `run.sh` add `--debug` flag to `main.py` command and run `sh run.sh`
+- Run `make run_debug`
