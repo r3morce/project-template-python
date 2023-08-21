@@ -18,3 +18,9 @@ run_debug:
 	isort .
 	black .
 	python3 main.py --debug
+
+test:
+	pytest tests -q
+
+test_debug:
+	pytest tests -v

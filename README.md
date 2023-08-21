@@ -15,3 +15,7 @@ Project Description
 ## How to debug?
 
 - Run `make run_debug`
+
+## How to test?
+
+- Run `make test`

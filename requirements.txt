@@ -1,1 +1,13 @@
+cachetools==5.3.1
+chardet==5.2.0
+colorama==0.4.6
+distlib==0.3.7
+filelock==3.12.2
+iniconfig==2.0.0
+packaging==23.1
+platformdirs==3.10.0
+pluggy==1.2.0
+pyproject-api==1.5.3
+pytest==7.4.0
 python-dotenv==1.0.0
+virtualenv==20.24.2
