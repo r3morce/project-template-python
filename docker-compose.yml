@@ -1,0 +1,5 @@
+services:
+  my-python-script:
+    build:
+      context: .
+      dockerfile: Dockerfile
