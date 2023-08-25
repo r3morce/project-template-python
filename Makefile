@@ -3,7 +3,7 @@ help:
 	@echo "  setup       to setup the project"
 	@echo "  run         to run the project"
 	@echo "  run_debug   to run the project in debug mode"
-	@echo "  run_docker to build and run the project in docker"
+	@echo "  run_docker  to build and run the project in docker"
 	@echo "  test        to run the tests"
 	@echo "  test_debug  to run the tests in debug mode"
 
